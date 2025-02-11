@@ -80,6 +80,8 @@ let charArr = [
   "Ѱ",
   "Ѿ",
   "Ц",
+  "&",
+  "%",
 ];
 
 let maxCharCount = 300;
